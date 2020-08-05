@@ -13,7 +13,7 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Мы разрабатываем
+- name: Разработка
   descr: "Разработка сайтов бизнес класса с адаптивным дизайном под мобильные устройства, правильной структурой кода для поисковых систем, интеграция всех топовых инструментов для дальнейшего продвижения вашего контента с дальнейшей технической поддержкой."
   demo: 
   tags:
@@ -22,12 +22,22 @@
     - tag: Разработка Интернет-Магазинов
     - tag: Разработка Бюджетных сайтов
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Увеличение продаж, реклама, pr
+  descr: "Эффективная настройка и оптимизация рекламных кампаний под ваш контент, заданную цель и бюджет, технический и коммерческий аудит, разработка стратегии продвижения опираясь только на конкретные цифры аудитории из аналитики, полный мониторинг конкурентов"
+  demo: 
   tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: Контекстная реклама
+    - tag: Seo-продвижение
+    - tag: Реклама в Instagram
+    - tag: Таргет в Facebook и Instagram
+    - tag: Реклама в мессенджерах
+- name: Упаковка, брендинг и дизайн
+  descr: "Упаковка готового продукта, разработка топового контента графики с использованием самых последних инструментов и трендов данной ниши. Картинка первое с чем взаимодействует пользователь, рекомендую максимум внимания уделить данному пункту, от стиля, мелочей и нюансов складывается и зависит первое впечатления пользователя о вашем продукте. Разработка уникального адаптивного дизайна и верстка под ключ, модернизация готовых дизайн шаблонов под вас. Только уникальные разработки с анализом конкурентов."
+  demo: 
+  tags:
+    - tag: Web-дизайн
+    - tag: Дизайн UX/UI
+    - tag: Дизайн сайтов на тильде
+    - tag: Разработка фирменного стиля
+    - tag: Разработка маркетинг-кита
+    - tag: Разработка brandbook
