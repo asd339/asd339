@@ -17,15 +17,15 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: AnBCorporation
+- title: Industriapro
   title-url: 
-  date: Сентябрь 2016 - настоящее время
-  subtitle: Analytics BDBIGSQL
+  date: Сентябрь 2012 - настоящее время
+  subtitle: Руководитель проектов
   tags:
-    - tag: Google Analytics
-    - tag: Формирование списков аудиторий
-    - tag: AB Тесты
-    - tag: Ремаркетинг по аудиториям
+    - tag: Информационная безопасность.
+    - tag: Google Analytics, ADS, CLOUD.
+    - tag: SEO, PPC, SMM.
+    - tag: Разработка ПО, Сайтов, Чат боты.
   timeline-side: right
 
 - title: AnBCorporation
@@ -33,33 +33,35 @@
   date: Март 2014 - Сентябрь 2016
   subtitle: Project менеджер
   tags:
-    - tag: Управления проектами
-    - tag: Информационная безопасность 
-    - tag: Сопровождение ПО после передачи прав
+    - tag: Управления проектами.
+    - tag: Информационная безопасность.
+    - tag: Сопровождение ПО после передачи прав.
   timeline-side: right
 
-- title: Booking.com § Hotels24.ua § Ostrovok.ru/
+- title: Booking.com § Hotels24.ua § Ostrovok.ru
   title-url: 
   date: Апрель 2011 - июнь 2013
   subtitle: Топ Менеджер
   tags:
-    - tag: Обработка данных
-    - tag: UEFA Euro 2012
-    - tag: Контроль качества
+    - tag: Обработка данных.
+    - tag: UEFA Euro 2012.
+    - tag: Контроль качества.
   timeline-side: left
 
 - title: Телекоммуникационные системы
   title-url: 
-  date: Октябрь 2007 - Mar 2011
+  date: Октябрь 2007 - Март 2011
   subtitle: Старший инженер телекоммуникаций Kyivstar § Volia
   tags:
-    - tag: Разработка и монтаж оптоволоконных линий связи
-    - tag: Проектирование сети ip услуг
-    - tag: Подключение интернета
+    - tag: Разработка и монтаж оптоволоконных линий связи.
+    - tag: Проектирование сети ip услуг.
+    - tag: Подключение интернета.
   timeline-side: right
 
 - title: Национальный университет
   title-url: 
-  date: 2005 - 2010
-  subtitle: Информационная Безопасность
+  date: Сентябрь 2005 - май 2010
+  subtitle: Информационная Безопасность.
+  tags:
+    - tag: Специалис
   timeline-side: left
