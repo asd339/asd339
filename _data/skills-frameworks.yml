@@ -6,14 +6,14 @@
 #   weight: 5
 
 - name: Разработка сайтов
-  weight: 5
+  weight: 2
 
 - name: Создание интернет магазина
 
-  weight: 3
+  weight: 1
 
 - name: Выгрузка для Rozetka и HotLine
-  weight: 4
+  weight: 2
 
 - name: Магазины на OpenCart
   weight: 1
@@ -22,17 +22,17 @@
   weight: 2
 
 - name: Корпоративные сайты
-  weight: 3
+  weight: 1
 
 - name: Сайт визитка
 
   weight: 1
 
 - name: Сайты на Wordpress
-  weight: 2
+  weight: 1
 
 - name: Создание чат ботов viber, whatsapp
-  weight: 4
+  weight: 1
   
 - name: Разработка приложений ios
   weight: 2
@@ -41,4 +41,4 @@
   weight: 1
   
 - name: Создание чат ботов telegram, messenger
-  weight: 4
+  weight: 1
