@@ -34,11 +34,11 @@
 - name: Создание чат ботов viber, whatsapp
   weight: 4
   
-  - name: Разработка приложений ios
+- name: Разработка приложений ios
   weight: 2
   
-  - name: Разработка приложений android
+- name: Разработка приложений android
   weight: 1
   
-  - name: Создание чат ботов telegram, messenger
+- name: Создание чат ботов telegram, messenger
   weight: 4
