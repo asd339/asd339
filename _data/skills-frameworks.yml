@@ -5,29 +5,40 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Разработка сайтов
   weight: 5
 
-- name: AngularJS
+- name: Создание интернет магазина
+
   weight: 3
 
-- name: React
+- name: Выгрузка для Rozetka и HotLine
   weight: 4
 
-- name: Node
+- name: Магазины на OpenCart
   weight: 1
 
-- name: Flutter
+- name: Landing page
   weight: 2
 
-- name: Express
+- name: Корпоративные сайты
   weight: 3
 
-- name: Django
+- name: Сайт визитка
+
   weight: 1
 
-- name: Spring
+- name: Сайты на Wordpress
   weight: 2
 
-- name: Rails
+- name: Создание чат ботов viber, whatsapp
+  weight: 4
+  
+  - name: Разработка приложений ios
+  weight: 2
+  
+  - name: Разработка приложений android
+  weight: 1
+  
+  - name: Создание чат ботов telegram, messenger
   weight: 4
