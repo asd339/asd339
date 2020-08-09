@@ -15,28 +15,13 @@
   weight: 3
 
 - name: Фирменный стиль
-  weight: 2
+  weight: 5
 
 - name: Дизайн IOS
-  weight: 1
+  weight: 4
 
 - name: Дизайн Android
-  weight: 1
-
-- name: WhatsApp
   weight: 3
 
-- name: 
-  weight: 1
-
-- name: 
-  weight: 1
-
-- name: 
-  weight: 1
-
-- name: 
-  weight: 2
-
-- name: 
-  weight: 2
+- name: WhatsApp
+  weight: 5
