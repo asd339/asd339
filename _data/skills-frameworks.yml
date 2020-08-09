@@ -10,10 +10,10 @@
 
 - name: интернет магазины
 
-  weight: 5
+  weight: 4
 
 - name: Rozetka
-  weight: 5
+  weight: 3
 
 - name: OpenCart
   weight: 5
@@ -22,7 +22,7 @@
   weight: 4
 
 - name: HotLine
-  weight: 5
+  weight: 3
 
 - name: Сайт визитка
 
@@ -32,13 +32,13 @@
   weight: 4
 
 - name: Чат боты
-  weight: 5
+  weight: 3
   
 - name: Разработка ios
-  weight: 3
+  weight: 5
   
 - name: Разработка android
-  weight: 3
+  weight: 4
   
 - name: telegram
-  weight: 5
+  weight: 3
