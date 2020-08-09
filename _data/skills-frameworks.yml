@@ -17,6 +17,9 @@
 
 - name: Rozetka
   weight: 4
+  
+- name: Tilda.cc
+  weight: 4
 
 - name: OpenCart
   weight: 1
