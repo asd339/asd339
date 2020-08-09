@@ -9,22 +9,22 @@
   weight: 5
 
 - name: Seo-продвижение
-  weight: 4
+  weight: 3
 
 - name: Реклама в Instagram
   weight: 3
 
 - name: Таргет
-  weight: 5
+  weight: 1
 
 - name: Реклама в мессенджерах
-  weight: 4
+  weight: 1
 
 - name: Google ADS
-  weight: 3
+  weight: 2
 
 - name: Google Cloud
-  weight: 5
+  weight: 2
 
 - name: Mail рассылкв
   weight: 4
@@ -33,4 +33,4 @@
   weight: 3
 
 - name: Соцмедиа
-  weight: 5
+  weight: 4
