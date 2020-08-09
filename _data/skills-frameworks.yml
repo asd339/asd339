@@ -5,8 +5,8 @@
 # - name: Framework
 #   weight: 5
 
-- name: разработка
-  weight: 5
+- name: Разработка
+  weight: 4
   
 - name: web сайты
   weight: 4
