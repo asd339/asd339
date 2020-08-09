@@ -5,7 +5,10 @@
 # - name: Framework
 #   weight: 5
 
-- name: Разработка сайтов
+- name: разработка
+  weight: 5
+  
+- name: web сайты
   weight: 4
 
 - name: интернет магазины
