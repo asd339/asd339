@@ -30,7 +30,7 @@
   weight: 2
   
 - name: Разработка android
-  weight: 1
+  weight: 2
   
 - name: telegram
   weight: 2
