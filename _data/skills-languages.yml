@@ -12,16 +12,25 @@
   weight: 4
 
 - name: Дизайн Тильда
-  weight: 3
+  weight: 2
 
 - name: Фирменный стиль
-  weight: 5
+  weight: 4
 
 - name: Дизайн IOS
-  weight: 4
+  weight: 3
 
 - name: Дизайн Android
   weight: 3
 
 - name: WhatsApp
-  weight: 5
+  weight: 1
+  
+- name: Разработка ios
+  weight: 1
+  
+- name: Разработка android
+  weight: 1
+  
+- name: telegram
+  weight: 1
