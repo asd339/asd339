@@ -4,11 +4,11 @@
   <input type="radio" id="all" name="filter" checked />
   <label class="filter-button neumorphism-button" for="all">Все</label>
   <input type="radio" id="language" name="filter" />
-  <label class="filter-button neumorphism-button" for="language">Языки</label>
+  <label class="filter-button neumorphism-button" for="language">Упаковка</label>
   <input type="radio" id="framework" name="filter" />
-  <label class="filter-button neumorphism-button" for="framework">Фреймворки</label>
+  <label class="filter-button neumorphism-button" for="framework">Разработка</label>
   <input type="radio" id="tool" name="filter" />
-  <label class="filter-button neumorphism-button" for="tool">Инструменты</label>
+  <label class="filter-button neumorphism-button" for="tool">Реклама</label>
 
   {% for language in site.data.skills-languages %}
     <div skill-type="language" skill-weight="{{language.weight}}" data-aos="zoom-in">
