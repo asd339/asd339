@@ -5,19 +5,19 @@
 # - name: Git
 #   weight: 5
 
-- name: Контекстная реклама
+- name: Контекст
   weight: 5
 
 - name: Seo-продвижение
   weight: 3
 
-- name: Реклама в Instagram
+- name: Реклама instagram
   weight: 3
 
 - name: Таргет
   weight: 1
 
-- name: Реклама в мессенджерах
+- name: PR мессенджерах
   weight: 1
 
 - name: Google ADS
