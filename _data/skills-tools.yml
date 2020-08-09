@@ -19,6 +19,15 @@
 
 - name: PR мессенджерах
   weight: 1
+  
+  - name: PPC
+  weight: 4
+  
+  - name: SMM
+  weight: 4
+  
+  - name: Analytics
+  weight: 3
 
 - name: Google ADS
   weight: 2
