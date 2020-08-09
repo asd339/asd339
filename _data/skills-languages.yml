@@ -5,38 +5,38 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
-  weight: 5
-
-- name: JavaScript
+- name: Web-дизайн
   weight: 4
 
-- name: Python
+- name: Дизайн UX/UI
+  weight: 3
+
+- name: Дизайн сайтов тильда
   weight: 2
 
-- name: HTML5
+- name: Фирменный стиль
+  weight: 1
+
+- name: Дизайн IOS
   weight: 4
 
-- name: CSS3
+- name: Дизайн Android
   weight: 3
 
-- name: SASS
-  weight: 3
-
-- name: Java
+- name: 
   weight: 1
 
-- name: Dart
+- name: 
   weight: 1
 
-- name: Swift
+- name: 
   weight: 1
 
-- name: Kotlin
+- name: 
   weight: 1
 
-- name: C++
+- name: 
   weight: 2
 
-- name: Ruby
+- name: 
   weight: 2
