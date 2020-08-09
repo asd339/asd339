@@ -16,13 +16,13 @@
   weight: 3
 
 - name: Магазины на OpenCart
-  weight: 1
+  weight: 5
 
 - name: Landing page
   weight: 2
 
 - name: Корпоративные сайты
-  weight: 4
+  weight: 5
 
 - name: Сайт визитка
 
@@ -32,7 +32,7 @@
   weight: 3
 
 - name: Создание чат ботов viber, whatsapp
-  weight: 1
+  weight: 5
   
 - name: Разработка ios
   weight: 4
@@ -41,4 +41,4 @@
   weight: 2
   
 - name: Создание чат ботов telegram, messenger
-  weight: 1
+  weight: 5
