@@ -8,25 +8,25 @@
 - name: Разработка сайтов
   weight: 5
 
-- name: Создание интернет магазина
+- name: интернет магазина
 
-  weight: 4
+  weight: 5
 
 - name: Выгрузка для Rozetka и HotLine
-  weight: 3
+  weight: 5
 
 - name: Магазины на OpenCart
   weight: 5
 
 - name: Landing page
-  weight: 2
+  weight: 4
 
 - name: Корпоративные сайты
-  weight: 5
+  weight: 3
 
 - name: Сайт визитка
 
-  weight: 2
+  weight: 3
 
 - name: Сайты на Wordpress
   weight: 3
@@ -38,7 +38,7 @@
   weight: 4
   
 - name: Разработка android
-  weight: 2
+  weight: 4
   
 - name: Создание чат ботов telegram, messenger
   weight: 5
