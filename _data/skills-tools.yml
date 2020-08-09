@@ -6,13 +6,13 @@
 #   weight: 5
 
 - name: Контекстная реклама
-  weight: 3
+  weight: 5
 
 - name: Seo-продвижение
-  weight: 5
+  weight: 4
 
 - name: Реклама в Instagram
-  weight: 5
+  weight: 3
 
 - name: Таргет
   weight: 5
@@ -21,16 +21,16 @@
   weight: 4
 
 - name: Google ADS
-  weight: 5
+  weight: 3
 
 - name: Google Cloud
   weight: 5
 
 - name: Mail рассылкв
-  weight: 5
+  weight: 4
 
 - name: Арбитраж
-  weight: 5
+  weight: 3
 
 - name: Соцмедиа
   weight: 5
