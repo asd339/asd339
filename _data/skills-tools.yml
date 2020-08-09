@@ -15,7 +15,7 @@
   weight: 3
 
 - name: Таргет
-  weight: 1
+  weight: 2
 
 - name: PR мессенджерах
   weight: 1
