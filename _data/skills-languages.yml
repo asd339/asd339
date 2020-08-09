@@ -6,25 +6,25 @@
 #   weight: 5
 
 - name: Web-дизайн
-  weight: 4
+  weight: 5
 
 - name: Дизайн UX/UI
-  weight: 3
-
-- name: Дизайн сайтов тильда
-  weight: 2
-
-- name: Фирменный стиль
-  weight: 1
-
-- name: Дизайн IOS
   weight: 4
 
-- name: Дизайн Android
+- name: Дизайн Тильда
   weight: 3
 
-- name: 
+- name: Фирменный стиль
+  weight: 2
+
+- name: Дизайн IOS
   weight: 1
+
+- name: Дизайн Android
+  weight: 1
+
+- name: WhatsApp
+  weight: 3
 
 - name: 
   weight: 1
