@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  rabota:
+    title: rabota
+    output: true
 description: Инфраструктура IT мирового класса Google Cloud, разработка по-ботов-сайтов,
   реклама-продвижение в интернет, smm соц-сети
 baseurl: 
