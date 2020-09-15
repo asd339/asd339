@@ -1,6 +1,6 @@
 ---
 title: Коммерчески успешное продвижение Вашего бизнеса в Интернете
-timezone: UTC
+timezone: Europe/Kiev
 collections:
   posts:
     title: Posts
@@ -10,7 +10,7 @@ collections:
     output: true
 description: Инфраструктура IT мирового класса Google Cloud, разработка по-ботов-сайтов,
   реклама-продвижение в интернет, smm соц-сети
-baseurl: ''
+baseurl: 
 username: Welcome Industriapro
 typing_text: Разработка, реклама, pr, интернет Маркетинг от профи
 email: therealbog339@gmail.com
