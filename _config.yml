@@ -64,8 +64,10 @@ show_contact_card: true
 contact_title: Контакты
 contact_description: |-
   Вы можете напрямую написать мне кликнув на иконку любой из соцсетей выше, либо заполните форму ниже оставив свой контактный номер телефона чтобы я мог Вам перезвонить!
-  Закрытый Telegram канал интересных статей в IT: [@industriapro](https://t.me/industriapro) Маркетинг, Разработка сайтов, Соцсети, DarkNet, Социальная инженерия, Информационная безопасность, Нетсталкинг, Анонимность в интернет, Termux, Kali Linux, Софт.
-  Открытый Telegram чат маркетинг IT: [@industriaprochat](https://t.me/industriaprochat)
+
+  Закрытый Telegram канал интересных статей в IT: **[@industriapro](https://t.me/industriapro)** `Маркетинг`, Разработка сайтов, `Соцсети`, DarkNet, `Социальная инженерия`, Информационная безопасность, Нетсталкинг, Анонимность в интернет, Termux, Kali Linux, Софт.
+
+  Открытый Telegram чат Маркетинг IT: **[@industriaprochat](https://t.me/industriaprochat)**
 repository: "/asd339"
 projects:
   sort_by: pushed
