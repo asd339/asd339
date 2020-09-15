@@ -62,7 +62,7 @@ show_os_projects: true
 os_projects_title: Проекты с открытым исходным кодом
 show_contact_card: true
 contact_title: Контакты
-contact_description: 
+contact_description: палвпафыа
 repository: "/asd339"
 projects:
   sort_by: pushed
