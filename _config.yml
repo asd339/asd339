@@ -62,12 +62,12 @@ show_os_projects: true
 os_projects_title: Проекты с открытым исходным кодом
 show_contact_card: true
 contact_title: Контакты
-contact_description: |-
-  Вы можете напрямую написать мне кликнув на иконку любой из соцсетей выше, либо заполните форму ниже оставив свой контактный номер телефона чтобы я мог Вам перезвонить!
-
-  Закрытый Telegram канал интересных статей в IT: **[@industriapro](https://t.me/industriapro)** `Маркетинг`, Разработка сайтов, `Соцсети`, DarkNet, `Социальная инженерия`, Информационная безопасность, Нетсталкинг, Анонимность в интернет, Termux, Kali Linux, Софт.
-
-  Открытый Telegram чат Маркетинг IT: **[@industriaprochat](https://t.me/industriaprochat)**
+contact_description: "Вы можете напрямую написать мне кликнув на иконку любой из соцсетей,
+  либо заполните форму ниже оставив свой контактный номер телефона чтобы я мог Вам
+  перезвонить!\n\nЗакрытый Telegram канал интересных статей в IT: **[@industriapro](https://t.me/industriapro)**
+  \\`\n\n    > Маркетинг`, Разработка сайтов, `Соцсети`, DarkNet \n    Социальная
+  инженерия`, Информационная безопасность, Софт,\n    Нетсталкинг, Анонимность в интернет,
+  Termux, Kali Linux\n    \n\nОткрытый Telegram чат Маркетинг IT: **[@industriaprochat](https://t.me/industriaprochat)**"
 repository: "/asd339"
 projects:
   sort_by: pushed
