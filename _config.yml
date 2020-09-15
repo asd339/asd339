@@ -62,7 +62,7 @@ show_os_projects: true
 os_projects_title: Проекты с открытым исходным кодом
 show_contact_card: true
 contact_title: Контакты
-contact_description: "Вы можете напрямую написать мне кликнув на иконку любой из соцсетей,
+contact_description: Вы можете напрямую написать мне кликнув на иконку любой из соцсетей,
   либо заполните форму ниже оставив свой контактный номер телефона чтобы я мог Вам
   перезвонить!\n\nЗакрытый Telegram канал интересных статей в IT: <a class = "highlight-link"
   href = "https://t.me/industriapro/" target="_blank" rel="noreferrer"> @industriapro </a>
