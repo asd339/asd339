@@ -2,7 +2,6 @@
 title: onlinekurs
 date: 2020-09-16 00:38:00 +03:00
 permalink: "/online"
-published: false
 images: "/uploads/87433948_2805767266175015_2257145016449236992_o.jpg"
 portfolio_images:
 - - caption:
