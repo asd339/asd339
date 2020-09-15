@@ -2,11 +2,13 @@
 title: onlinekurs
 date: 2020-09-16 00:38:00 +03:00
 permalink: "/online"
+published: false
 images: "/uploads/87433948_2805767266175015_2257145016449236992_o.jpg"
 portfolio_images:
 - - caption:
     - zagolovok
     - body
+    Key: 'm, ., '
   - "/uploads/87867972_2805767349508340_8638390142450532352_o.jpg"
   - "/uploads/87482848_2805753166176425_3620354502189645824_o.jpg"
 - - "/uploads/116888055_3206163986135339_4627682743739492175_o.jpg"
