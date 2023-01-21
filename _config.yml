@@ -56,7 +56,7 @@ cv_download_link:
 show_projects_card: true
 show_projects: true
 projects_title: Услуги
-show_os_projects: false
+show_os_projects: true
 os_projects_title: Проекты с открытым исходным кодом
 show_contact_card: true
 contact_title: Контакты
