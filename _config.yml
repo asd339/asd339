@@ -91,9 +91,9 @@ exclude:
 - package.json
 jekyll_admin:
   hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
+  - posts
+  - pages
+  - staticfiles
+  - datafiles
+  - configuration
+  homepage: pages
