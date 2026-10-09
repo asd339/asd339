@@ -55,7 +55,7 @@ show_timeline_card: true
 timeline_title: Образование и опыт
 cv_download_link: 
 show_projects_card: false
-show_projects: false
+show_projects: true
 projects_title: Услуги
 show_os_projects: false
 os_projects_title: Проекты с открытым исходным кодом
