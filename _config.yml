@@ -54,7 +54,7 @@ skills_title: Навыки и Скилы
 show_timeline_card: true
 timeline_title: Образование и опыт
 cv_download_link: 
-show_projects_card: false
+show_projects_card: true
 show_projects: true
 projects_title: Услуги
 show_os_projects: false
